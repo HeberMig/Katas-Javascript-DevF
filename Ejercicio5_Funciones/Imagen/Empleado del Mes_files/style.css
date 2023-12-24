@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+    color: blue;
+}
+p{
+    color: rgb(255, 218, 11);
+    size: 14px;
+    border: 10px;
+    margin: 10px;
+    padding: 10em;
+    text-align: center;
+    background: forestgreen;
+}
+#form-container {
+    margin-bottom: 20px;
+}
+
+#resultados-container {
+    border-top: 2px solid #333;
+    padding-top: 20px;
+    color: red;
+}
+#calcularEmpleadoBtn{
+    padding: 10px;
+    color: ghostwhite;
+    background:orangered;
+    border-radius: 10px;
+}

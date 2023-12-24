@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px; 
+    color: blue;
+}
+
+#semaforoColorImagen {
+    width: 300px; /* Ajusta el ancho de la imagen según tus necesidades */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+
+/* }
+.semaforo-container {
+    display: flex;
+    flex-direction: column; // Col 
+    border: 4px solid black; // Borde ext 
+    padding: 10px; 
+
+} */
+
+/* 
+.semaforo-color {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; // Margen inferior 
+    border-radius: 360%;
+    border: 4px solid black; // borde del límite entre cuadros 
+    box-sizing: border-box; // borde tamaño total
+}
+
+.r {
+    background-color: red;
+    background-image: url(/Imagen/circuloRojo.png);
+    
+}
+
+.a {
+    background-color: yellow;
+}
+
+.v {
+    background-color: green;
+} */ 
